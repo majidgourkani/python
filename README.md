@@ -1,7 +1,6 @@
 
-there is my first github project
-and i'm learning Python.
+This is my first github project and i'm learning Python.
 
-i'm so excited learn Data science afteh that.
+I'm so excited about learning Data science after that.
 
 wish me luck... 
