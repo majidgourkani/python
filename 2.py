@@ -7,3 +7,4 @@ while x <= 10:
         y +=1
     print()
     x += 1
+#jadvale zarb

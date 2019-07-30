@@ -17,3 +17,5 @@ while x < len(str1):
         nums.append(int(temp))
 
 print(nums)
+
+#joda kardan adad az ye str

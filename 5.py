@@ -17,3 +17,4 @@ else:
         y += 1
     else:
         print("this is a prime number...")
+# baresi adad aval bodan

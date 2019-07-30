@@ -17,3 +17,5 @@ while True:
             print("%.2f" %(a/b))
     else:
         print("bad oprand...")
+
+#mashin hesab

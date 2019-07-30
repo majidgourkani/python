@@ -11,3 +11,5 @@ while in_num > 0:
     in_num //= base_num
 
 print(result_num)
+
+#taghir mabnaye ye adad to base dg
