@@ -1,0 +1,31 @@
+important library:
+-Collections
+-heapq
+-pickle
+-sqlite3
+-JSON
+-base64
+-HTML
+-urllib
+-itertools
+-enum
+-pathlib
+-inspect
+-typing
+-zipapp
+
+#python -m pip install <package>
+#python -m pip list
+#python -m pip install --user requests
+#python -m pip install --upgrade requests
+#python -m pip uninstall <package>
+
+
+#indexing python packages:
+https://pypi.python.org/pypi
+#python -m pip search <package>
+
+#use doctest for test the code:
+#python -m doctest <py-file> -v
+
+#pass the argument to a program by, "argparse" module.
