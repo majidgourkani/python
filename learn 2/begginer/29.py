@@ -1,0 +1,17 @@
+from PIL import Image, ImageFilter,ImageEnhance
+
+imag = Image.open('Rose.jpg')
+imag.show()
+image3 = imag.crop((100,100,200,200))
+image3.show()
+image2 = imag.resize((100, 100))
+image2.show()
+#image2.save("resized_Rose.jpg")
+image_grayscal = imag.convert('L')
+image_grayscal.show()
+edge_detect = imag.filter(ImageFilter.FIND_EDGES)
+edge_detect.show()
+contrast_image = ImageEnhance.Contrast(imag).enhance(1.75)
+contrast_image.show()
+Bright_image = ImageEnhance.Brightness(imag).enhance(1.75)
+Bright_image.show()
